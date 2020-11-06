@@ -1,0 +1,12 @@
+drive reader
+create a folder to store the .txt files
+	if folder does not exist
+		create folder
+		change path to be in the created folder
+	else 
+		change path into the created folder
+		
+1) find all the drives inside the computer
+2) in each drive:
+	a) each folder:
+		print into .txt existing folder and files

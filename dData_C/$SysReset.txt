@@ -1,0 +1,2 @@
+C:/$SysReset\Logs
+C:/$SysReset\Logs\SetupAct_offline.log
